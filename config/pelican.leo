@@ -54,9 +54,12 @@
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1"><vh>2020</vh>
-<v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20180115115910.1"><vh>2021</vh>
+<v t="444.20210317163326.1"><vh>烤肉機</vh>
+<v t="444.20210317163347.1"><vh>@clean stage1.md</vh></v>
+</v>
+<v t="leo.20180423103639.1"><vh>2021 spring CD 課程</vh>
+<v t="leo.20180423103656.1"><vh>@clean 20210317.md</vh></v>
 </v>
 </v>
 </v>
@@ -66,6 +69,41 @@
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 </vnodes>
 <tnodes>
+<t tx="444.20210317163326.1"></t>
+<t tx="444.20210317163347.1">@language md
+---
+Title: 自動烤肉機
+Date: 2021-03-17 15:00
+Category: Misc
+Tags: 自動烤肉機
+Slug: 2021-spring-Intro-to-computer-programming-2
+Author: 40823247
+---
+
+2021 spring 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others
+
+Python
+----
+小組主題:自動旋轉烤肉機
+
+本組作品為自動旋轉烤肉機，我們的製作動機為，希望能輕鬆的享受烤肉時光，
+
+傳統的手動烤肉方法，要不斷的照顧火爐上的肉，因此沒辦法享受烤肉時光，但
+
+有了自動旋轉烤肉機的話，只要把肉串起來放進去，等肉烤好再拿出來，就可以
+
+享受美味的烤肉了，非常方便。
+
+
+Flutter
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+</t>
 <t tx="leo.20170709015940.1"></t>
 <t tx="leo.20170709015947.1"></t>
 <t tx="leo.20170709020600.1"></t>
@@ -88,6 +126,39 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20180423103656.1">@language md
+---
+Title: 2021 spring CD 課程
+Date: 2021-03-17 15:00
+Category: Misc
+Tags: 2021springCD
+Slug: 2021-spring-Intro-to-computer-programming-1
+Author: 40823247
+---
+
+2021 spring 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others
+
+Python
+----
+Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
+
+Python 可以用來開發網際版的內容管理系統 CMSiMDE
+
+Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
+
+Python 可以用於機器學習 Keras, Pytorch
+
+
+Flutter
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
