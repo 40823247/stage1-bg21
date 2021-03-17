@@ -72,10 +72,10 @@
 <t tx="444.20210317163326.1"></t>
 <t tx="444.20210317163347.1">@language md
 ---
-Title: 2021 spring CD 課程
+Title: 自動烤肉機
 Date: 2021-03-17 15:00
 Category: Misc
-Tags: 2021springCD
+Tags: 自動烤肉機
 Slug: 2021-spring-Intro-to-computer-programming-2
 Author: 40823247
 ---
@@ -102,7 +102,8 @@ Python
 Flutter
 ----
 
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps</t>
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+</t>
 <t tx="leo.20170709015940.1"></t>
 <t tx="leo.20170709015947.1"></t>
 <t tx="leo.20170709020600.1"></t>

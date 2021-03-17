@@ -1,8 +1,8 @@
 ---
-Title: 2021 spring CD 課程
+Title: 自動烤肉機
 Date: 2021-03-17 15:00
 Category: Misc
-Tags: 2021springCD
+Tags: 自動烤肉機
 Slug: 2021-spring-Intro-to-computer-programming-2
 Author: 40823247
 ---
