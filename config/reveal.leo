@@ -207,7 +207,7 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">
+<t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
         &lt;small&gt;Created by &lt;a href="https://40823247.github.io/cd2021/content/index.html"&gt;40823247&lt;/a&gt; and &lt;a href="https://40823248.github.io/cd2021/content/index.html"&gt;40823248&lt;/a&gt;&lt;/small&gt;
