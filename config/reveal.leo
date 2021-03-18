@@ -95,7 +95,7 @@
 </t>
 <t tx="444.20210318224103.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;自動旋轉烤肉機&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt=""src="./../images/uD8sBUiVTB.gif"height="300" width="189"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="src="./../images/uD8sBUiVTB.gif"height="375" width="290"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="444.20210318231935.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -140,7 +140,7 @@
 </t>
 <t tx="444.20210319002001.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
      &lt;h2&gt;problem and solution&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/自動烤肉機動圖.gif" width="150"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt=" src="./../images/自動烤肉機動圖.gif" " height="150"width="300"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -148,14 +148,14 @@
      &lt;h2&gt;problem&lt;/h2&gt;
      &lt;p&gt;模擬程式時，旋轉盤會晃動&lt;/p&gt;
      &lt;p&gt;推測可能的原因為零件重心不對稱&lt;/p&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/自動烤肉機動圖.gif" width="150"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="150" src="./../images/自動烤肉機動圖.gif" width="300"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="444.20210319002756.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
      &lt;h2&gt;solution&lt;/h2&gt;
-     &lt;p&gt;重新繪製所有零件，並為轉盤增加烤肉串、旋鈕，以及重新設定coppeliasim的馬達速度跟扭力數值"&lt;/p&gt;
-    &lt;p&gt;&lt;img alt="" height="226" src="./../images/烤肉轉盤 (2).png" width="300"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="187" src="./../images/coppeliaSim_U0l0ErWVH7.png" width="300"/&gt;&lt;/p&gt;
+     &lt;p&gt;重新繪製所有零件，並為轉盤增加烤肉串、旋鈕，以及重新設定coppeliasim的馬達速度跟扭力數值&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="226" src="./../images/烤肉轉盤 (2).png" width="300"/&gt;&lt;img alt="" height="187" src="./../images/coppeliaSim_U0l0ErWVH7.png" width="300"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
