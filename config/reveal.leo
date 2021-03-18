@@ -95,7 +95,7 @@
 </t>
 <t tx="444.20210318224103.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;自動旋轉烤肉機&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="src="./../images/uD8sBUiVTB.gif"height="375" width="290"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="375" src="./../images/uD8sBUiVTB.gif" width="290"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="444.20210318231935.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -140,7 +140,7 @@
 </t>
 <t tx="444.20210319002001.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
      &lt;h2&gt;problem and solution&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt=" src="./../images/自動烤肉機動圖.gif" " height="150"width="300"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img alt="" height="375" src="./../images/khsadvljHb.gif" width="281"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
