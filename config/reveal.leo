@@ -91,7 +91,7 @@
 </t>
 <t tx="444.20210318224103.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;自動旋轉烤肉機&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/uD8sBUiVTB.gif" width="600"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt=""src="./../images/uD8sBUiVTB.gif"height="300" width="189"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="444.20210318231935.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -114,7 +114,7 @@
        透過中間的電熱棒提高溫度，用來充當烤肉的熱源。
        在外圍一層有孔的鐵板，防止肉、手觸碰到熱源燙傷。
     &lt;/p&gt;
-       &lt;p&gt;&lt;img alt="" height="677" src="./../images/uD8sBUiVTB.gif" width="338"/&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="300" src="./../images/uD8sBUiVTB.gif" width="189"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="444.20210318233033.2">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -122,14 +122,14 @@
     &lt;p&gt;
        利用鐵棒插入肉塊，使用旋轉盤旋轉要烤的東西。
     &lt;/p&gt;
-       &lt;p&gt;&lt;img alt="" height="713" src="./../images/messageImage_1616080070734.jpg" width="590"/&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="300" src="./../images/messageImage_1616080070734.jpg" width="248"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="444.20210319000008.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;p&gt;
        底座的中心裝有馬達，供轉盤旋轉，調整熱度。
     &lt;/p&gt;
-       &lt;p&gt;&lt;img alt="" height="708" src="./../images/messageImage_1616080095743.jpg" width="758"/&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="280" src="./../images/messageImage_1616080095743.jpg" width="300"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20180902120523.1"></t>
