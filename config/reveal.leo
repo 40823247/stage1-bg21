@@ -34,7 +34,10 @@
 <v t="444.20210319002629.1"><vh>slide444-2</vh></v>
 <v t="444.20210319002756.1"><vh>slide444-3</vh></v>
 </v>
-<v t="444.20210318231936.2"><vh>slide555</vh></v>
+<v t="444.20210318231936.2"><vh>slide555</vh>
+<v t="444.20210319011338.1"><vh>slide555-1</vh></v>
+<v t="444.20210319011406.1"><vh>slide555-2</vh></v>
+</v>
 <v t="444.20210318231936.3"><vh>slide666</vh></v>
 <v t="444.20210318231936.4"><vh>slide777</vh></v>
 <v t="444.20210318231936.5"><vh>slide888</vh></v>
@@ -106,8 +109,15 @@
 <t tx="444.20210318231936.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     @others
 &lt;/section&gt;</t>
-<t tx="444.20210318231936.2"></t>
-<t tx="444.20210318231936.3"></t>
+<t tx="444.20210318231936.2">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="444.20210318231936.3">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+     &lt;h1&gt;Videos&lt;/h1&gt;
+     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/o4FEBgjASxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="444.20210318231936.4"></t>
 <t tx="444.20210318231936.5"></t>
 <t tx="444.20210318233017.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -148,7 +158,7 @@
      &lt;h2&gt;problem&lt;/h2&gt;
      &lt;p&gt;模擬程式時，旋轉盤會晃動&lt;/p&gt;
      &lt;p&gt;推測可能的原因為零件重心不對稱&lt;/p&gt;
-    &lt;p&gt;&lt;img alt="" height="150" src="./../images/自動烤肉機動圖.gif" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="375" src="./../images/khsadvljHb.gif" width="281"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -156,6 +166,16 @@
      &lt;h2&gt;solution&lt;/h2&gt;
      &lt;p&gt;重新繪製所有零件，並為轉盤增加烤肉串、旋鈕，以及重新設定coppeliasim的馬達速度跟扭力數值&lt;/p&gt;
     &lt;p&gt;&lt;img alt="" height="226" src="./../images/烤肉轉盤 (2).png" width="300"/&gt;&lt;img alt="" height="187" src="./../images/coppeliaSim_U0l0ErWVH7.png" width="300"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="444.20210319011338.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+     &lt;h3&gt;心得&lt;/h3&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="444.20210319011406.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+     &lt;p&gt;透過這次兩人協同的經驗，我們學到了如何使用leo編輯網誌，以及簡報(reveal)，還有coppeliasim程式模擬的使用。我認為小組溝通的重要性很高，如果沒有溝通好，很多分工無法順利進行，雖然只有短短四週的時間，但發生了很多意想不到的問題，像合併倉儲就是其中之一，不過，和組員溝通後，利用了以前學到的所有東西，去解決以前沒有遇過的問題，是我們這次協同最寶貴的經驗。&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
