@@ -23,6 +23,17 @@
 <v t="444.20210318223832.1"><vh>slide222-1</vh></v>
 <v t="444.20210318224103.1"><vh>slide222-2</vh></v>
 </v>
+<v t="444.20210318231935.1"><vh>slide333</vh>
+<v t="444.20210318233017.1"><vh>slide333-1</vh></v>
+<v t="444.20210318233033.1"><vh>slide333-2</vh></v>
+<v t="444.20210318233033.2"><vh>slide333-3</vh></v>
+<v t="444.20210319000008.1"><vh>slide333-4</vh></v>
+</v>
+<v t="444.20210318231936.1"><vh>slide444</vh></v>
+<v t="444.20210318231936.2"><vh>slide555</vh></v>
+<v t="444.20210318231936.3"><vh>slide666</vh></v>
+<v t="444.20210318231936.4"><vh>slide777</vh></v>
+<v t="444.20210318231936.5"><vh>slide888</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -74,13 +85,51 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="444.20210318223832.1">&lt;section&gt;
+<t tx="444.20210318223832.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;以下是我們的設計產品&lt;/h2&gt;
 &lt;/section&gt;
 </t>
-<t tx="444.20210318224103.1">&lt;section&gt;
+<t tx="444.20210318224103.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;自動旋轉烤肉機&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/自動烤肉機動圖.gif" width="600"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/uD8sBUiVTB.gif" width="600"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="444.20210318231935.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="444.20210318231936.1"></t>
+<t tx="444.20210318231936.2"></t>
+<t tx="444.20210318231936.3"></t>
+<t tx="444.20210318231936.4"></t>
+<t tx="444.20210318231936.5"></t>
+<t tx="444.20210318233017.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h2&gt;How to work?&lt;/h2&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="444.20210318233033.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;p&gt;
+       透過中間的電熱棒提高溫度，用來充當烤肉的熱源。
+       在外圍一層有孔的鐵板，防止肉、手觸碰到熱源燙傷。
+    &lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="677" src="./../images/uD8sBUiVTB.gif" width="338"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="444.20210318233033.2">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h2&gt;原理&lt;/h2&gt;
+    &lt;p&gt;
+       利用鐵棒插入肉塊，使用旋轉盤旋轉要烤的東西。
+    &lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="713" src="./../images/messageImage_1616080070734.jpg" width="590"/&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="444.20210319000008.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;p&gt;
+       底座的中心裝有馬達，供轉盤旋轉，調整熱度。
+    &lt;/p&gt;
+       &lt;p&gt;&lt;img alt="" height="708" src="./../images/messageImage_1616080095743.jpg" width="758"/&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20180902120523.1"></t>
@@ -228,7 +277,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
+<t tx="leo.20200818170535.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     @others
 &lt;/section&gt;
 
