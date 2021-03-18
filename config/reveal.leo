@@ -207,10 +207,12 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+<t tx="leo.20200818170328.1">&lt;section data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;stage1-bg21&lt;/2&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823247.github.io/cd2021/content/index.html"&gt;40823247&lt;/a&gt; and &lt;a href="https://40823248.github.io/cd2021/content/index.html"&gt;40823248&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://github.com/40823247/stage1-bg21"&gt;40823247&lt;/a&gt; and &lt;a href="https://github.com/40823248/stage1-bg21"&gt;40823248&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
