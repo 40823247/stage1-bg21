@@ -183,7 +183,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;協同產品設計實習stage1bg21&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -207,14 +207,15 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section data-background-transition="zoom"&gt;
+<t tx="leo.20200818170328.1">&lt;section data-transition="slide1" data-background-transition="zoom"&gt;
+   &lt;section data-transition="slide" data-background="#696969" data-background-transition="zoom"&gt;
     &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
     &lt;h2&gt;stage1-bg21&lt;/2&gt;
     &lt;p&gt;
         &lt;small&gt;Created by &lt;a href="https://github.com/40823247/stage1-bg21"&gt;40823247&lt;/a&gt; and &lt;a href="https://github.com/40823248/stage1-bg21"&gt;40823248&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
+ &lt;/section&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;Hello There&lt;/h2&gt;
